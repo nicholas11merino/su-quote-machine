@@ -5,6 +5,8 @@ var quotes = [
     character: 'Garnet' },
   { content: "APPARENTLY MORE THAN YOU, YOU... CLOD! ",
     character: "Peridot" }
+  { content: "I'm reporting this!",
+    character: "Marble Madness" }
 ];
 
 var displayQuote = function() {
